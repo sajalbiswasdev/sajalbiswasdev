@@ -4,6 +4,8 @@
 <div align="center">
 
 👋 Hi, I'm Sajal Biswas
+I'm a Full Stack Web Developer from Bangladesh.
+I am passionate about building modern, responsive, and useful web applications.
 </div><div style="margin-bottom: 8px;">
 ☕ Connect with me!</div>
 
@@ -16,8 +18,6 @@
 
 ### 🚀 Full Stack Web Developer
 
-I'm a Full Stack Web Developer from Bangladesh.
-I am passionate about building modern, responsive, and useful web applications.
 
 ## 👨‍💻 About Me
 
