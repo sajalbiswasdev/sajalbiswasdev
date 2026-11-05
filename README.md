@@ -47,6 +47,8 @@ I am passionate about building modern, responsive, and useful web applications.
 
 ## 🤝 Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sajalbiswasdev/)](https://www.linkedin.com/in/sajalbiswasdev/))
-[![Facebook[](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)](https://www.facebook.com/sajalbiswasdev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sajalbiswasdev/))
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([YOUR_FACEBOOK_URL](https://www.facebook.com/sajalbiswasdev/))
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajalbiswas570@gmail.com)
