@@ -73,16 +73,6 @@ Responsive e-commerce website project.
 
 ---
 
-### 📊 GitHub Stats & Activity
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajalbiswasdev&show_icons=true&theme=tokyonight" alt="Sajal's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sajalbiswasdev&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajalbiswasdev&theme=tokyonight" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajalbiswasdev&theme=tokyonight" alt="Profile Details" />
 </p>
