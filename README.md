@@ -7,18 +7,18 @@
 
 ### 🚀 Full Stack Web Developer
 
-</div>
-<p>☕ Connect with me!</p>
-<br>
+</div><div style="margin-bottom: 8px;">☕ Connect with me!</div>
+
 <a href="https://facebook.com/sajalbiswasdev" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://youtube.com/@sajalbiswasdev" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://linkedin.com/in/sajalbiswasdev" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://instagram.com/sajalbiswasdev" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://twitter.com/sajalbiswasdev" target="_blank"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="mailto:sajalbiswas570@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
 ### 🚀 Full Stack Web Developer
 
-I'm a Full Stack Web Developer from Bangladesh.  
+I'm a Full Stack Web Developer from Bangladesh.
 I am passionate about building modern, responsive, and useful web applications.
 
 ## 👨‍💻 About Me
