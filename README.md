@@ -4,6 +4,7 @@
 <div align="center">
 
 👋 Hi, I'm Sajal Biswas
+---
 I'm a Full Stack Web Developer from Bangladesh.
 I am passionate about building modern, responsive, and useful web applications.
 </div><div style="margin-bottom: 8px;">
@@ -52,7 +53,7 @@ I am passionate about building modern, responsive, and useful web applications.
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sajalbiswasdev&theme=tokyonight&hide_border=false)
-## 🚀 Featured Projects
+
 ---
 
 ### 💻 More Projects Coming Soon...
