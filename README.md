@@ -8,7 +8,7 @@
 ### ☕ Connect with me!
 
 <p align="left">
-  <a href="[https://facebook.com/your-username](https://www.facebook.com/sajalbiswasdev/)" target="_blank">
+  <a href="(https://www.facebook.com/sajalbiswasdev/)" target="_blank">
     <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://youtube.com/@your-channel" target="_blank">
