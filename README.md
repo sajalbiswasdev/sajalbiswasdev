@@ -41,6 +41,10 @@ I am passionate about building modern, responsive, and useful web applications.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalbiswasdev&layout=compact&theme=tokyonight)
 
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=sajalbiswasdev&color=blue&style=flat-square)
+
 ## 🤝 Connect With Me
 
 [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sajalbiswasdev/))
