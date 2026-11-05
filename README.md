@@ -3,11 +3,9 @@
 </p>
 <div align="center">
 
-# 👋 Hi, I'm Sajal Biswas
-
-### 🚀 Full Stack Web Developer
-
-</div><div style="margin-bottom: 8px;">☕ Connect with me!</div>
+👋 Hi, I'm Sajal Biswas
+</div><div style="margin-bottom: 8px;">
+☕ Connect with me!</div>
 
 <a href="https://facebook.com/sajalbiswasdev" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://youtube.com/@sajalbiswasdev" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -25,7 +23,6 @@ I am passionate about building modern, responsive, and useful web applications.
 
 - 💻 Full Stack Web Developer
 - 🌱 Currently learning and improving my web development skills
-- 🚀 Building modern and responsive web applications
 - 🎯 Focused on becoming a better developer every day
 - 📚 Learning new technologies and best practices
 
@@ -46,25 +43,9 @@ I am passionate about building modern, responsive, and useful web applications.
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-
-## 📊 GitHub Stats
-
-![Sajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajalbiswasdev&show_icons=true&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalbiswasdev&layout=compact&theme=tokyonight)
-
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sajalbiswasdev&color=blue&style=flat-square)
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sajalbiswasdev/))
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([YOUR_FACEBOOK_URL](https://www.facebook.com/sajalbiswasdev/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajalbiswas570@gmail.com)
----
 
 > 💡 "Code. Learn. Build. Repeat."
 
