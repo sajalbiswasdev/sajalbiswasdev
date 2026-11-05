@@ -54,12 +54,6 @@ I am passionate about building modern, responsive, and useful web applications.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sajalbiswasdev&theme=tokyonight&hide_border=false)
 
----
-
-### 💻 More Projects Coming Soon...
----
-
----
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajalbiswasdev&theme=tokyonight" alt="Profile Details" />
