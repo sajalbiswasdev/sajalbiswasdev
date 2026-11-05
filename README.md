@@ -8,7 +8,7 @@
 ### 🚀 Full Stack Web Developer
 
 </div>
-### ☕ Connect with me!
+☕ Connect with me!
 
 [![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sajalbiswasdev)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sajalbiswasdev)
