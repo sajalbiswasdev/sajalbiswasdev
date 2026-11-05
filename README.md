@@ -17,7 +17,7 @@ I am passionate about building modern, responsive, and useful web applications.
 <a href="https://twitter.com/sajalbiswasdev" target="_blank"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="mailto:sajalbiswas570@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-### 🚀 Full Stack Web Developer
+
 
 
 ## 👨‍💻 About Me
