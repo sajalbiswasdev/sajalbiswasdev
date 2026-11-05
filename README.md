@@ -60,3 +60,6 @@ I am passionate about building modern, responsive, and useful web applications.
 
 > 💡 "Code. Learn. Build. Repeat."
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sajalbiswasdev&theme=tokyonight&hide_border=false)
