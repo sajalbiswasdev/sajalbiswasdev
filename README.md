@@ -1,4 +1,10 @@
-# 👋 Hi there, I'm Sajal Biswas
+<div align="center">
+
+# 👋 Hi, I'm Sajal Biswas
+
+### 🚀 Full Stack Web Developer
+
+</div>
 
 ### 🚀 Full Stack Web Developer
 
