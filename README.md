@@ -33,5 +33,5 @@ I am passionate about building modern, responsive, and useful web applications.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ## 📊 GitHub Stats
 
-![Sajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Sajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajalbiswasdev&show_icons=true&theme=tokyonight)
 YOUR_USERNAME
