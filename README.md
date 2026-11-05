@@ -10,7 +10,6 @@
 </div>
 <p>☕ Connect with me!</p>
 <br>
-
 <a href="https://facebook.com/sajalbiswasdev" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://youtube.com/@sajalbiswasdev" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://linkedin.com/in/sajalbiswasdev" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
