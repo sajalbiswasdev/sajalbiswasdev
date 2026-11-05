@@ -37,3 +37,6 @@ I am passionate about building modern, responsive, and useful web applications.
 
 ![Sajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajalbiswasdev&show_icons=true&theme=tokyonight)
 
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalbiswasdev&layout=compact&theme=tokyonight)
