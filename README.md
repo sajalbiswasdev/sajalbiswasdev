@@ -63,3 +63,20 @@ I am passionate about building modern, responsive, and useful web applications.
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sajalbiswasdev&theme=tokyonight&hide_border=false)
+## 🚀 Featured Projects
+
+### 🌐 Veltrio Digital
+Digital Marketing Agency landing page built with WordPress and Elementor.
+
+**Tech:** WordPress • Elementor
+
+---
+
+### 🛒 E-Commerce Website
+Responsive e-commerce website project.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 💻 More Projects Coming Soon...
